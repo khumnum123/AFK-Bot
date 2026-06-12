@@ -1,7 +1,7 @@
 {
-  "name": "AfkBot",
+  "name": "AFK-Bot",
   "bot-account": {
-    "username": "AfkBot",
+    "username": "AFK-Bot",
     "password": "",
     "type": "offline"
   },
